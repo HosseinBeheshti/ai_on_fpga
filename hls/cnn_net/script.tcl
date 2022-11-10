@@ -16,4 +16,4 @@ add_files -tb tb/data
 open_solution "solution1" -flow_target vivado
 set_part {xc7k325tffg676-2}
 create_clock -period 10 -name default
-source "directives.tcl"
+source "src/directives.tcl"

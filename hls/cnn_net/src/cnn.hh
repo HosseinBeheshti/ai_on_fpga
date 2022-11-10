@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../Headers/definitions.h"
+#include "headers/definitions.h"
 
 void cnn
 (

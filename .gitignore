@@ -2,8 +2,7 @@ build/*
 .Xil/*
 .vscode/*
 artifacts/*
-matlab/sensor_data.bin
-hls/dma_lb_axis_switch/dma_lb_axis_switch/*
+hls/cnn_net/cnn_ip_core/*
 log_data/*
 qt/sdk/*
 qt/build*
