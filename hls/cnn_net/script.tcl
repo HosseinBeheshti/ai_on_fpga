@@ -3,7 +3,7 @@
 ## $ vitis_hls -f create_project.tcl
 ################################################################################
 
-open_project Project
+open_project cnn_ip_core
 set_top cnn
 add_files src/cnn.cc
 add_files src/conv.cc
